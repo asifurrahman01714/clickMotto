@@ -43,7 +43,7 @@ const GalleryReact = () => {
                                             <div className="row Item-inside">
                                                 {/* for images */}
                                                 <div className="img-div">
-                                                    <img src={image} alt={id} className="img-fluid"/>
+                                                    <img src={image} alt={id} className="img-fluid shadow"/>
                                                 </div>
                                             </div>
                                         </div>
