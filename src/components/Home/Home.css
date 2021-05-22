@@ -1,0 +1,11 @@
+.home{
+    background-image:url(../images/homebg.png);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    height: 50vh;
+    /* padding-top: 20vh; */
+    width: 95%;
+    margin: auto;
+
+}
